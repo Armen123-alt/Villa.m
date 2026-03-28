@@ -762,4 +762,9 @@ img {
   .arm85{
     margin-top: 40px;
   }
+  .arm51{padding: 15px 20px;}
+  .arm52{padding: 15px 20px;}
+   .arm53{padding: 15px 20px;}
+   .arm50{display:flex;
+          justify-content: center;}
 }
