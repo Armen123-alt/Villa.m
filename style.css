@@ -573,6 +573,8 @@ img {
 .arm147 {
   margin-top: 25px;
 }
+.arm300{background: black;padding: 30px;margin-top: 200px;color: white;}
+.arm301{text-align: center;}
 .arm150 {
   background: #000000;
   color: white;
@@ -767,4 +769,13 @@ img {
    .arm53{padding: 15px 20px;}
    .arm50{display:flex;
           justify-content: center;}
+          .arm134{display: none;}
+          .arm40{width: 65%;}
+          .left1{width: 75%;margin: 0 auto;}
+          .arm160{font-size: 12px;}
+          .arm162{font-size: 14px;}
+          .arm141{margin-top: 25px;}
+          .arm300{margin-top: 170%;}
+          .arm14{width: 63%;}
+          .right{margin: 0 auto;}
 }
