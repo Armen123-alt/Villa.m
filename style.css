@@ -759,7 +759,7 @@ img {
   }
   .arm13{width: 100%;}
   .arm82{
-    width: 100%;
+    width: 83%;
   }
   .arm85{
     margin-top: 40px;
@@ -777,5 +777,9 @@ img {
           .arm141{margin-top: 25px;}
           .arm300{margin-top: 170%;}
           .arm14{width: 63%;}
-          .right{margin: 0 auto;}
+          .right{margin: 0 auto;margin-top: 25px;}
+          .arm80{padding: 0;}
+          .center{margin: 0 auto;width: 80%;}
+          .arm26{width: 80%;}
+        
 }
