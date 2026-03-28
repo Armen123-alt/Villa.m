@@ -1,0 +1,765 @@
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+* {
+  margin: 0;
+}
+.arm {
+  padding: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+  background: white;
+}
+.arm0 {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+.arm1 {
+  display: flex;
+  align-items: center;
+}
+.armen {
+  display: flex;
+  justify-content: center;
+}
+.arm2 {
+  margin-left: 35px;
+  transition: 1s;
+}
+.arm3 {
+  color: #f35525;
+}
+.arm2:hover {
+  transition: 1s;
+  color: #f35525;
+}
+.black {
+  background: black;
+  padding: 0px 50px;
+  margin-left: 15px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  padding-left: 0px;
+}
+.arm4 {
+  padding: 10px;
+  background: #f35525;
+  border-radius: 20px;
+  color: white;
+  max-height: 1600px;
+}
+.arm6 {
+  color: white;
+  margin-left: 15px;
+}
+
+
+
+.bg {
+  background-image: url("https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/banner-01.jpg");
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 1600px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+.arm10 {
+  color: #f35525;
+  margin-left: 10px;
+}
+.orange {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: -25px;
+  left: -50px;
+  background: #f35525;
+  border-radius: 360px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left {
+  position: relative;
+}
+.arm9 {
+  display: flex;
+}
+.arm8 {
+  background: white;
+  padding: 10px;
+  display: flex;
+}
+.arm13 {
+  color: white;
+  width: 33%;
+  margin-top: 50px;
+}
+.arm14 {
+  width: 40%;
+}
+.arm15 {
+  display: flex;
+  justify-content: center;
+  padding: 80px;
+}
+.arm16 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  width: 33%;
+  padding: 20px;
+}
+img {
+  width: 100%;
+}
+.arm18 {
+  background: #fafafa;
+  padding: 10px;
+  border-bottom: 1px solid;
+  color: #ccc;
+}
+
+.arm20 {
+  color: #f35525;
+}
+.arm21 {
+  width: 85%;
+  color: black;
+}
+.arm22 {
+  font-weight: 800;
+}
+.arm23 {
+  text-decoration: none;
+}
+.arm24 {
+  margin-top: 25px;
+  color: black;
+}
+.arm25 {
+  background: #fafafa;
+  padding: 10px;
+}
+.arm26 {
+  width: 60%;
+  margin-top: 15px;
+}
+.arm27 {
+  color: #ee626b;
+  margin-top: 50px;
+}
+.right {
+  width: 20%;
+  padding: 20px;
+  box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.arm28 {
+  width: 15%;
+}
+.arm30 {
+  margin-left: 15px;
+}
+.arm29 {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid;
+  color: #aaa;
+  padding-bottom: 25px;
+}
+.arm299 {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid;
+  color: #aaa;
+  margin-top: 25px;
+  padding-bottom: 25px;
+}
+.arm291 {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+  padding-bottom: 25px;
+}
+.arm31 {
+  color: #aaa;
+}
+.arm35 {
+  color: black;
+}
+.bg1 {
+  background-image: url("https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/video-bg.jpg");
+  height: 70vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arm33 {
+  color: white;
+  width: 55%;
+  text-align: center;
+  margin-top: 25px;
+}
+.arm34 {
+  color: #ee626b;
+  display: flex;
+  justify-content: center;
+}
+.arm35 {
+  display: flex;
+  justify-content: center;
+}
+.bg2 {
+  background-image: url("https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/video-frame.jpg");
+  height: 450px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  max-width: 1100px;
+}
+.arm36 {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+.arm37 {
+  height: 80px;
+  width: 80px;
+  border-radius: 360px;
+  background: rgba(255, 112, 3, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arm38 {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-radius: 360px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arm39 {
+  color: #f35525;
+}
+.arm40 {
+  background: #ffeee9;
+  padding: 20px;
+  width: 15%;
+  border-radius: 15px;
+  position: relative;
+}
+.arm41 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arm42 {
+  color: #f35525;
+}
+.arm43 {
+  margin-left: 25px;
+}
+.arm44 {
+  display: flex;
+  justify-content: center;
+}
+.arm45 {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+.arm46 {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+}
+.arm47 {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  background: #f1f1f1;
+  padding: 50px;
+}
+.arm48 {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.arm49 {
+  width: 25%;
+}
+.arm50 {
+  display: flex;
+  align-items: center;
+}
+.arm51 {
+  padding: 15px 40px;
+  background: #f35525;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+.arm52 {
+  padding: 15px 40px;
+  background: #000000;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 20px;
+  transition: 1s;
+}
+.arm53 {
+  padding: 15px 40px;
+  background: #000000;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+.arm52:hover {
+  transform: scale(0.9, 0.9);
+  transition: 1s;
+}
+.arm53:hover {
+  transform: scale(0.9, 0.9);
+  transition: 1s;
+}
+.left1 {
+  width: 20%;
+  box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  padding: 25px;
+  border-radius: 5px;
+  background: white;
+}
+.center1 {
+  width: 40%;
+}
+.right1 {
+  width: 30%;
+}
+.arm54 {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  align-items: self-start;
+}
+
+.arm55 {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid;
+  border-color: #aaa;
+  padding-bottom: 15px;
+  align-items: center;
+}
+.arm57 {
+  color: #aaa;
+}
+.arm58 {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid;
+  border-color: #aaa;
+  padding-bottom: 15px;
+  align-items: center;
+  margin-top: 25px;
+}
+.arm60 {
+  display: flex;
+  justify-content: space-between;
+  align-items: self-start;
+}
+.arm72 {
+  margin-top: 25px;
+  color: #aaa;
+  width: 80%;
+}
+.arm49{width: 100%;}
+
+.arm110{max-width: 1600px;margin: 0 auto;}
+
+.bg{max-width: 1600px;margin: 0 auto;}
+
+.arm70{max-width: 1600px;}
+.black1 {
+  background: black;
+  padding: 0px 50px;
+  margin-top: 25px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  padding-left: 0px;
+  width: 50%;
+}
+.arm81 {
+  color: #ee626b;
+  text-align: center;
+}
+.arm80 {
+  margin-top: 100px;
+  padding: 50px;
+}
+.arm83 {
+  display: flex;
+  justify-content: center;
+}
+.arm82 {
+  text-align: center;
+  width: 30%;
+  margin-top: 25px;
+}
+.arm85 {
+  display: flex;
+  justify-content: space-around;
+}
+.arm86 {
+  background: #f1f1f1;
+  padding: 30px;
+  border-radius: 10px;
+}
+.arm87 {
+  border-radius: 5px;
+}
+.arm89 {
+  background: #fbd9cf;
+  padding: 5px;
+  border-radius: 5px;
+}
+.arm88 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+  align-items: center;
+}
+.arm90 {
+  color: #f35525;
+}
+.arm91 {
+  margin-top: 25px;
+}
+.arm93 {
+  display: flex;
+  justify-content: space-between;
+  width: 55%;
+  margin-top: 15px;
+}
+.arm94 {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+.arm100 {
+  border-bottom: 1px solid;
+  border-color: #aaa;
+  padding-bottom: 20px;
+}
+.arm101 {
+  display: flex;
+  justify-content: center;
+}
+.arm102 {
+  background: #000000;
+  margin-top: 25px;
+  color: white;
+  width: 50%;
+  padding: 6px 3px;
+  border-radius: 15px;
+}
+.arm103 {
+  text-align: center;
+}
+.arm110 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 25px;
+}
+.bg4 {
+  background-image: url("https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/contact-bg.jpg");
+  height: 600px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  background-repeat: no-repeat;
+}
+.arm120 {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  width: 60%;
+}
+.arm121 {
+  display: flex;
+  justify-content: center;
+}
+.arm122 {
+  display: flex;
+  justify-content: center;
+}
+.arm134 {
+  height: 40px;
+  width: 40px;
+  background: #f35525;
+  position: absolute;
+  top: -15px;
+  border-radius: 360px;
+  left: 200px;
+}
+.arm135 {
+  width: 50%;
+}
+.arm142 {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 90%;
+  left: 5%;
+  bottom: -25%;
+}
+.arm140 {
+  width: 45%;
+}
+.arm141 {
+  width: 40%;
+  padding: 10px;
+  background: white;
+  padding: 30px;
+  box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.arm144 {
+  border-radius: 5px;
+}
+.arm145 {
+  width: calc(100% - 20px);
+  background: #f1f1f1;
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 15px;
+  font-size: 14px;
+}
+.arm146 {
+  display: flex;
+  justify-content: center;
+}
+.arm147 {
+  margin-top: 25px;
+}
+.arm150 {
+  background: #000000;
+  color: white;
+  margin-top: 50px;
+  padding: 10px 20px;
+  border-radius: 22px;
+  font-size: 15px;
+  border: none;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.arm150:hover {
+  background: #f35525;
+  transition: 0.5s;
+}
+.left2 {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+}
+.right2 {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+}
+.arm158 {
+  display: flex;
+  justify-content: space-between;
+  width: 98%;
+  margin-top: 50px;
+}
+.arm159 {
+  display: flex;
+  align-items: center;
+}
+.arm160 {
+  font-size: 20px;
+}
+.arm161 {
+  margin-left: 15px;
+}
+.arm162 {
+  color: #aaaaaa;
+}
+.bg1 {
+  position: relative;
+}
+@media only screen and (max-width: 600px) {
+  .arm1 {
+    display: none;
+  }
+
+  .asdfg {
+    font-size: 30px;
+    width: 40%;
+  }
+
+  .arm32 {
+    position: relative;
+  }
+
+  .arm {
+    position: static;
+  }
+  .arm16 {
+    display: block;
+  }
+  .arm15 {
+    padding-right: 0;
+    padding-left: 20px;
+  }
+  .center {
+    width: 100%;
+    padding: 0;
+  }
+  .left {
+
+  }
+  .right {
+    width: 80%;
+  }
+  .bg2 {
+    width: 100%;
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+  }
+  .arm36 {
+    padding: 0;
+  }
+
+  .arm33 {
+    position: absolute;
+    top: 15%;
+  }
+  .arm34 {
+    position: absolute;
+    top: 10%;
+    left: 37%;
+  }
+
+  .bg2 {
+    position: absolute;
+    top: 40%;
+  }
+
+.arm50{margin-top: 50px;}
+
+  .arm45 {
+    display: block;
+    width: 100%;
+  }
+  .arm40 {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+  .arm46 {
+    display: block;
+    width: 100%;
+  }
+  .arm47 {
+    padding-left: 10px;
+    padding: 10px;
+  }
+  .arm49 {
+    width: 70%;
+    text-align: center;
+  }
+  .arm48 {
+    display: block;
+  }
+  .arm51 {
+    margin-left: 0px;
+  }
+  .arm52 {
+    margin-left: 5px;
+    padding: 15px 30px;
+  }
+  .arm53 {
+    margin-left: 5px;
+  }
+  .arm27 {
+    text-align: center;
+  }
+  .arm4000{display: flex;justify-content: center;}
+  .arm60{display: block;}
+  .left1{width: 90%;}
+  .center1{width: 100%;margin-top: 50px;}
+  .right1{width: 100%;margin-top: 50px;}
+  
+  .arm110{
+    display: block;
+  }
+  .arm142{
+    display: block;
+    top:285px;
+    left:5%
+  }
+  .arm140{
+    width: 100%;
+  }
+  .arm141{
+    width: calc(100% - 60px);
+  }
+  .arm144{
+    width: 100%;
+  }
+  .arm158{
+    width: 100%;
+  }
+  .arm13{width: 100%;}
+  .arm82{
+    width: 100%;
+  }
+  .arm85{
+    margin-top: 40px;
+  }
+}
